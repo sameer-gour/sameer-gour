@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Sameer Alam</h1><br><br><h3 align="center"><br>🚀 Frontend Developer | ⚛️ React.js | 🎨 GSAP | 🌱 Learning Backend<br></h3><br><br>---<br><br>### 👨‍💻 About Me<br>- 🎓 BCA Graduate<br>- 💻 Frontend Developer passionate about UI & Web Design<br>- 🌱 Currently learning Backend Development<br>- ⚡ Love building modern web apps<br>- 📫 Email: samirgour316@gmail.com<br><br>---<br><br>### 🚀 Skills<br><br><p align="center"><br><br>HTML | CSS | JavaScript | Bootstrap | TailwindCSS | GSAP | React.js | Git | GitHub | Linux<br><br></p><br><br>---<br><br><br>### ⚡ Goal<br>Become Full Stack Developer 🚀
+<h1 align="center">Hi 👋, I'm Sameer Alam</h1><br><br><h3 align="center"><br>🚀 Frontend Developer | ⚛️ React.js | 🎨 GSAP | 🌱 Learning Backend<br></h3><br><br>---<br><br>### 👨‍💻 About Me<br>- 🎓 BCA Graduate<br>- 💻 Frontend Developer passionate about UI & Web Design<br>- 🌱 Currently learning Backend Development<br>- ⚡ Love building modern web apps<br>- 📫 Email: samirgour316@gmail.com<br><br>---<br><br>### ### ⚡ Goal<br>Become Full Stack Developer 🚀
 
 
 ## 🌐 Socials:
