@@ -14,20 +14,30 @@ full-stack applications with AI integration.
 
 <br/>
 
+
+<!-- LinkedIn Button -->
 <a href="https://www.linkedin.com/in/sameer-alam-roorkee/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-1F4FD8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<!-- GitHub Button -->
 <a href="https://github.com/sameer-gour" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:samirgour316@gmail.com">
+<!-- Gmail Button: Opens Gmail Compose -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samirgour316@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<!-- Phone Button: Opens Phone Dialer -->
 <a href="tel:+919548675457">
-  <img src="https://img.shields.io/badge/Phone-9548675457-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+
+<!-- Contact Button: Opens Gmail Compose -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samirgour316@gmail.com&su=Contact%20Request" target="_blank">
+  <img src="https://img.shields.io/badge/Contact-Send%20Email-1F4FD8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
 
