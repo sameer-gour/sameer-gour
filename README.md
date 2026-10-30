@@ -14,16 +14,21 @@ full-stack applications with AI integration.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sameer-alam-roorkee/">
+<a href="https://www.linkedin.com/in/sameer-alam-roorkee/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-1F4FD8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/sameer-gour">
+
+<a href="https://github.com/sameer-gour" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="mailto:samirgour316@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="tel:+919548675457">
+  <img src="https://img.shields.io/badge/Phone-9548675457-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </div>
 
 ---
