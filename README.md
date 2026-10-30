@@ -1,24 +1,187 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Sameer Alam</h1><br><br><h3 align="center"><br>🚀 Frontend Developer | ⚛️ React.js | 🎨 GSAP | 🌱 Learning Backend<br></h3><br><br>---<br><br>### 👨‍💻 About Me<br>- 🎓 BCA Graduate<br>- 💻 Frontend Developer passionate about UI & Web Design<br>- 🌱 Currently learning Backend Development<br>- ⚡ Love building modern web apps<br>- 📫 Email: samirgour316@gmail.com<br><br>---<br><br>### ### ⚡ Goal<br>Become Full Stack Developer 🚀
 
+<!-- ========================================= -->
+<!-- SAMEER ALAM | GITHUB PROFILE README        -->
+<!-- ========================================= -->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1112971784694796290/1112971785177153621) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shamir_gour_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sameer-alam-roorkee/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samirgour316@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sameer-gour&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sameer-gour&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-gour&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Hi 👋, I'm Sameer Alam
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sameer-gour&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+### MERN Stack Developer | React.js | Frontend Development
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+Building modern web experiences and learning to develop
+full-stack applications with AI integration.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sameer-alam-roorkee/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1F4FD8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/sameer-gour">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:samirgour316@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sameer-gour&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm Sameer Alam, a BCA graduate and developer passionate
+about building responsive websites and modern web applications.
+
+- 🎓 Bachelor of Computer Applications (BCA), 2025
+- 💻 Frontend Developer with hands-on internship experience
+- ⚛️ Working with React.js and modern JavaScript
+- 🚀 Currently pursuing MERN Stack with AI Integration
+- 🤖 Exploring AI integration in web applications
+- 🌱 Learning backend development with Node.js and Express.js
+- 🎯 Goal: Become a skilled Full Stack Developer
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap"/>
+</p>
+
+### Backend Development & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel"/>
+</p>
+
+### Animation & UI
+
+- GSAP
+- Locomotive Scroll
+- Shery.js
+
+---
+
+## 🚀 Featured Projects
+
+### 01. Productivity Dashboard
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+A frontend productivity dashboard built to practice
+responsive design, JavaScript functionality, and
+interactive user interfaces.
+
+🔗 **[View Live Project](https://productivity-dash-board-topaz.vercel.app/)**
+
+---
+
+### 02. CS Envirotech Website
+
+**Technologies:** HTML5, CSS3, JavaScript, PHP
+
+A real-world business website developed during my
+Frontend Developer Internship at The Digital Iconic.
+
+🔗 **[View Live Website](https://www.csenvirotech.co.in/)**
+
+---
+
+## 💼 Experience
+
+**Frontend Developer Intern**
+
+The Digital Iconic | April 2025 – October 2025
+
+- Developed and deployed the CS Envirotech website.
+- Built responsive website layouts.
+- Worked with HTML, CSS, JavaScript, and PHP.
+- Gained practical experience working on a real-world project.
+
+---
+
+## 📚 Currently Learning
+
+| Technology | Focus |
+|---|---|
+| Node.js | Backend Development |
+| Express.js | Server-side Development |
+| MongoDB | Database Management |
+| MERN Stack | Full Stack Development |
+| AI Integration | AI-powered Web Applications |
+
+**Training:** MERN Stack with AI Integration  
+**Institute:** Ducat AI School, Noida  
+**Started:** May 2026  
+**Status:** Currently In Progress
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sameer-gour&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-gour&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-gour&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sameer-gour&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🎯 My Goal
+
+To become a strong Full Stack Developer, build real-world
+applications, explore AI-powered technologies, and
+continuously improve my problem-solving skills.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sameer-alam-roorkee/">
+<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Alam-0A66C2?style=flat-square&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sameer-gour">
+<img src="https://img.shields.io/badge/GitHub-sameer--gour-181717?style=flat-square&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/shamir_gour/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"/>
+</a>
+
+<a href="mailto:samirgour316@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/>
+</a>
+
+<br/><br/>
+
+### Thanks for visiting my profile! 👋
+
+<img src="https://komarev.com/ghpvc/?username=sameer-gour&label=Profile%20Views&color=1F4FD8&style=flat-square"/>
+
+</div>
