@@ -31,14 +31,14 @@ full-stack applications with AI integration.
 </a>
 
 <!-- Phone Button: Opens Phone Dialer -->
-<a href="tel:+919548675457">
-  <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+<a href="tel:9548675457">
+  <img src="https://img.shields.io/badge/Call%20Me-9548675457-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me"/>
 </a>
 
 <!-- Contact Button: Opens Gmail Compose -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samirgour316@gmail.com&su=Contact%20Request" target="_blank">
+<!-- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samirgour316@gmail.com&su=Contact%20Request" target="_blank">
   <img src="https://img.shields.io/badge/Contact-Send%20Email-1F4FD8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a> -->
 </div>
 
 ---
